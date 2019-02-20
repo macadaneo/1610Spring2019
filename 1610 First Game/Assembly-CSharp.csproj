@@ -61,9 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\animal.cs" />
     <Compile Include="Assets\GameValues\floatData.cs" />
-    <Compile Include="Assets\spaceShip.cs" />
+    <Compile Include="Assets\Scripts\animal.cs" />
+    <Compile Include="Assets\Scripts\MonoEvents.cs" />
+    <Compile Include="Assets\Scripts\PowerUpBase.cs" />
+    <Compile Include="Assets\Scripts\spaceShip.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10721110/Documents/1610Spring2019/1610 First Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
