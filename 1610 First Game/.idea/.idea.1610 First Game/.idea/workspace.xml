@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b34ac12e-d452-4dd1-a8af-284ae4b2b04d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610 First Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610 First Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610 First Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610 First Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unity Spaceship.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unity Spaceship.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/spaceShip.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/spaceShip.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="b34ac12e-d452-4dd1-a8af-284ae4b2b04d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +12,7 @@
     <session id="-624782836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="3" />
@@ -54,24 +44,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <marker date="1550684734517" expanded="true" signature="6:142" ph="..." />
-                <marker date="1550684734517" expanded="true" signature="183:549" ph="{...}" />
-                <marker date="1550684734517" expanded="true" signature="283:324" ph="{...}" />
-                <marker date="1550684734517" expanded="true" signature="353:391" ph="{...}" />
-                <marker date="1550684734517" expanded="true" signature="423:468" ph="{...}" />
-                <marker date="1550684734517" expanded="true" signature="526:547" ph="{...}" />
+                <marker date="1550685468733" expanded="true" signature="6:142" ph="..." />
+                <marker date="1550685468733" expanded="true" signature="183:510" ph="{...}" />
+                <marker date="1550685468733" expanded="true" signature="283:324" ph="{...}" />
+                <marker date="1550685468733" expanded="true" signature="353:391" ph="{...}" />
+                <marker date="1550685468733" expanded="true" signature="423:468" ph="{...}" />
+                <marker date="1550685468733" expanded="true" signature="487:508" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -118,8 +108,8 @@
         <option value="$PROJECT_DIR$/Assets/animal.cs" />
         <option value="$PROJECT_DIR$/Assets/PowerUpBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/animal.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
       </list>
     </option>
   </component>
@@ -129,7 +119,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="330" />
     <option name="y" value="123" />
     <option name="width" value="1440" />
@@ -220,7 +210,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4655000" />
+    <option name="totallyTimeSpent" value="5278000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,7 +223,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="330" y="123" width="1440" height="780" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25724638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -297,21 +286,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/PowerUp/AmmoLevel.asset">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-          <folding>
-            <marker date="1550684734517" expanded="true" signature="6:142" ph="..." />
-            <marker date="1550684734517" expanded="true" signature="183:549" ph="{...}" />
-            <marker date="1550684734517" expanded="true" signature="283:324" ph="{...}" />
-            <marker date="1550684734517" expanded="true" signature="353:391" ph="{...}" />
-            <marker date="1550684734517" expanded="true" signature="423:468" ph="{...}" />
-            <marker date="1550684734517" expanded="true" signature="526:547" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -320,6 +294,21 @@
             <marker date="1550685317528" expanded="false" signature="6:78" ph="..." />
             <marker date="1550685317528" expanded="true" signature="140:264" ph="{...}" />
             <marker date="1550685317528" expanded="true" signature="222:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1550685468733" expanded="true" signature="6:142" ph="..." />
+            <marker date="1550685468733" expanded="true" signature="183:510" ph="{...}" />
+            <marker date="1550685468733" expanded="true" signature="283:324" ph="{...}" />
+            <marker date="1550685468733" expanded="true" signature="353:391" ph="{...}" />
+            <marker date="1550685468733" expanded="true" signature="423:468" ph="{...}" />
+            <marker date="1550685468733" expanded="true" signature="487:508" ph="{...}" />
           </folding>
         </state>
       </provider>
